@@ -24,7 +24,7 @@ OneDrive世纪互联策略（简称A）翻车了，把A里的文件全部搬迁�
 然后将A策略内的所有内容拷贝到B策略内 （必须要保证文件结构正确）
 ### 1. 下载
 
-在 [Action](https://github.com/topjohncian/CloudrevePolicyMigrate/actions/runs/377157395) 里的 `Artifacts` 下载对应版本的可执行文件
+在 [Action](https://github.com/topjohncian/CloudrevePolicyMigrate/actions/runs/377209844) 里的 `Artifacts` 下载对应版本的可执行文件
 
 将其放在与 Cloudreve 的配置(conf.ini)同级目录下
 
