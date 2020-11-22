@@ -37,5 +37,5 @@ OneDrive世纪互联策略（简称A）翻车了，把A里的文件全部搬迁�
 
 **Pro用户需要在命令后增加 -pro** 如：
 ```shell script
-./cloudreve_policy_migrate_linux_amd64 -pro 1 2
+./cloudreve_policy_migrate_linux_amd64 1 2 -pro 
 ```
